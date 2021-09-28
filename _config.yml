@@ -25,14 +25,26 @@ description: >- # this means to ignore newlines until "baseurl:"
   and Computer Science related topics, things I deeply care about, some semi-random stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://o0neup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: privetartyomka
-github_username:  o0neup
+
+show_excerpts: false
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  
+  - jekyll-remote-theme
+
+# Remote theme that refers to the github version of this theme instead of the bundled one
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+
+  social_links:
+    github: o0neup
+    instagram: privetartyomka
+    # linkedin: jekyll
+    telegram: artyomka
 
 # Exclude from processing.
 # The following items will not be processed, by default.
