@@ -28,6 +28,10 @@ url: "https://o0neup.github.io" # the base hostname & protocol for your site, e.
 
 show_excerpts: false
 
+header_pages:
+  - about.markdown
+  - bookmarks.md
+
 # Build settings
 theme: minima
 plugins:
