@@ -34,15 +34,12 @@ header_pages:
 
 # Build settings
 theme: minima
+
+
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-
-# Remote theme that refers to the github version of this theme instead of the bundled one
-remote_theme: jekyll/minima
 
 minima:
-  skin: dark
 
   social_links:
     github: o0neup
