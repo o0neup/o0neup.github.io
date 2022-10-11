@@ -8,9 +8,9 @@ Hi!
 
 My name is Artem (pronounced Artyom) Korkhov. I'm a Software Engineer, surfer, human living in Stockholm, Sweden.
 
-I'm originally from Moscow, Russia, where I lived first 25 years of my life. In late 2017 I moved to Stockholm to work for [Spotify](https://www.spotify.com/). Currently I'm a Senior Software Engineer in Machine Learning Platform team, working primarily on ML Serving infrastructure project called Salem, which I co-founded in 2019.
+I'm originally from Moscow, Russia, where I lived first 25 years of my life. In late 2017 I moved to Sweden, where I reside since then.
 
-While there isn't much public information on Salem (hopefully, _yet_), it is _the_ ML Serving solution used at Spotify for use-cases ranging from Home page to much-much lower traffic scenarios.
+Since 2022 I'm a Staff Engineer in Systems Research team in RiskOps startup Feedzai. I was building Spotify's ML Platform for 3+ years before that, authoring the platform that powers almost all of the low-latency ML model serving in the company. I also have my hand in most of the ML infrastructure solutions built there.
 
 Before Spotify and Sweden I worked in various much smaller companies in Moscow, building things such as recommender systems, data analytics systems, marketing automation projects and so on.
 
